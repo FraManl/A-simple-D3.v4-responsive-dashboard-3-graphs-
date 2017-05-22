@@ -1,0 +1,22 @@
+.bar {
+  fill: steelblue;
+}
+
+.bar:hover {
+  fill: lightcyan;
+}
+
+.axis text {
+  fill:black;
+  font-weight:bold;
+}
+
+.bar text {
+  fill:black;
+}
+
+.label_barre{
+  fill:white;
+  font-weight:bold;
+  font-size:10px;
+}
