@@ -1,0 +1,58 @@
+
+ .axis text {
+  fill:black;
+  font-weight:bold;
+}
+
+.bar text {
+  fill:black;
+}
+
+.label_barre{
+  fill:white;
+  font-weight:bold;
+  font-size:10px;
+}
+.bar:hover {
+	opacity:.2;
+}
+
+
+
+.tooltip {
+	background: #fff;
+	color: darkblue;
+	display: none;
+	font-size: 25px;
+	line-height: 130%;
+	left:178.5px;
+	bottom:460px;
+	padding: 10px;
+	position:relative;
+	text-align: center;
+	width: 115px;
+	height: 100px;
+	z-index: 10;
+	color:blue;
+	border:1px dashed purple;
+	border-radius:50px;
+
+}
+
+.total{
+	font-size: 25px;
+}
+.legend {
+	font-size: 12px;
+}
+.arcPath:hover  .legendRect{
+	display: none;
+}
+
+.rect {
+	stroke-width: 2;
+}
+
+
+
+
