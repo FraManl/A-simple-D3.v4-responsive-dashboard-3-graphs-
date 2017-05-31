@@ -1,0 +1,16 @@
+date	value
+Airbus	150
+Safran	11
+Microsoft	56
+Boeing	90
+Arkema	88
+Biomerieux	39
+Raytheon	12
+IBM	170
+CEVA	30
+Bridgestone	20
+GREthA	10
+Aquitaine	12
+LOL	37
+MACRON	33
+VIdAL	180
