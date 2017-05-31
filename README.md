@@ -2,4 +2,6 @@
 
 Runs on latest version of Mozilla Firefox & Google Chrome.
 
+[ Google Chrome needs server-side execution. ]
+
 hf.
